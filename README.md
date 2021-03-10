@@ -17,7 +17,10 @@ npm install (para instalar el actual)
 npm start (para levantar la pagina)
 npm add react-icons (utilizado para las estrellas, puedes usar fontawesome).
 npm install react-icons --save
-npm i --save @fortawesome/fontawesome-svg-core  @fortawesome/free-solid-svg-icons @fortawesome/react-fontawesome @fortawesome/free-brands-svg-icons
+npm i --save @fortawesome/fontawesome-svg-core  
+@fortawesome/free-solid-svg-icons 
+@fortawesome/react-fontawesome 
+@fortawesome/free-brands-svg-icons
 ```
 
 Made with a lot of 💛

@@ -3,6 +3,8 @@
 _Created with React App_
 
 # Preview 🚀
+see deployment: https://estrellitas.herokuapp.com/
+
 ![](docs/screenshot.jpeg)
 
 Deployment: []()
